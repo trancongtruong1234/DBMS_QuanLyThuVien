@@ -7,6 +7,7 @@
 - Manage book borrowing, book return, search, add, edit, delete books
 - Manage books, search, add, edit, delete books
 ## SQL code to create database (Data_DoAn_DBMS)
+![](image/image2.png)
 - Create table, create data for table
 - Create trigger (trigger auto for automate the loan and return processes, auto update data,login,..)
 - Create procedure (add book, give book back,...)
