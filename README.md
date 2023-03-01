@@ -1,6 +1,6 @@
 # Library management applycation use Ado.net
 ## A part of the program's interface
-![](image/1.png)
+![](image/image.png)
 ## Program functions
 - Manage employees, search, add, edit, delete employees
 - Manage readers, search, add, edit, delete employees
